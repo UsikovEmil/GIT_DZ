@@ -7,10 +7,10 @@ public class main01 {
         }
 
 
+      
         public static void main(String[] args) {
           System.out.println(myFunction(3));
-          System.out.println(myFunction(3));
         }
-
+        
       }
       
